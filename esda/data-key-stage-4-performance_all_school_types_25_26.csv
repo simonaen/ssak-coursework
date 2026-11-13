@@ -1,0 +1,1277 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,old_la_code,new_la_code,la_name,establishment_type_group,attainment8_average
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,All state-funded,41.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,Academies and free schools,43.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,Converter academies,44.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,Foundation school,39.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,LA maintained mainstream,39.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,Sponsored academies,43.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,State-funded mainstream,42.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,All state-funded,41.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,Academies and free schools,42.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,Converter academies,43.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,Free schools,40.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,Sponsored academies,41.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,State-funded mainstream,42.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,All state-funded,43.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,Academies and free schools,44.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,Converter academies,44.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,Sponsored academies,45.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,State-funded mainstream,44.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,All state-funded,45.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,Academies and free schools,47.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,Community school,44.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,Converter academies,51
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,Free schools,53.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,LA maintained mainstream,44.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,Sponsored academies,44.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,State-funded mainstream,47.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,All state-funded,44.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,Academies and free schools,45.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,Converter academies,48.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,Free schools,46.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,Sponsored academies,40.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,State-funded mainstream,45.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,All state-funded,39.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,Academies and free schools,41.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,Converter academies,45.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,Free schools,42.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,LA maintained mainstream,39.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,Sponsored academies,36.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,State-funded mainstream,41.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,Voluntary aided school,39.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,All state-funded,48.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Academies and free schools,49.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Community school,45.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Converter academies,52.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Free schools,55.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,LA maintained mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Sponsored academies,44.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,State-funded mainstream,49.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,University technical college,30.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,Voluntary aided school,50
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,All state-funded,44.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Academies and free schools,45.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Converter academies,47.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Free schools,52.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,LA maintained mainstream,45.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Sponsored academies,40.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,State-funded mainstream,45.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Studio schools,31.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,Voluntary aided school,45.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,All state-funded,38.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,Academies and free schools,40.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,Converter academies,46.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,Free schools,34.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,Sponsored academies,34.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,State-funded mainstream,40.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",All state-funded,43.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",Academies and free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",Converter academies,45.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",Free schools,35.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",Further education 14-16 colleges,16
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",Sponsored academies,43.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",State-funded mainstream,44.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",University technical college,53
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,All state-funded,44.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,Academies and free schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,Community school,42.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,Converter academies,47.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,LA maintained mainstream,41.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,Sponsored academies,43.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,State-funded mainstream,45.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,Voluntary controlled school,37
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,All state-funded,39.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,Academies and free schools,42.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,Converter academies,46.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,Further education 14-16 colleges,10.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,Sponsored academies,37.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,State-funded mainstream,40
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,All state-funded,44.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,Academies and free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,Community school,43.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,Converter academies,46
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,LA maintained mainstream,44.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,Sponsored academies,43.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,State-funded mainstream,44.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,University technical college,41.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,Voluntary controlled school,48.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,All state-funded,49.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,Academies and free schools,51.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,Community school,49.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,Converter academies,53.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,LA maintained mainstream,48
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,Sponsored academies,40.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,State-funded mainstream,50.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,Voluntary controlled school,46
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,All state-funded,42.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Academies and free schools,43.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Community school,54.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Converter academies,47.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Foundation school,38.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Free schools,43.7
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,LA maintained mainstream,45.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,Sponsored academies,37.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,State-funded mainstream,43.8
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,University technical college,39.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,All state-funded,45.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Academies and free schools,46.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Community school,48.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Converter academies,48.7
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Foundation school,39.1
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Free schools,48.8
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,LA maintained mainstream,47.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Sponsored academies,40.7
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,State-funded mainstream,47
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,Voluntary aided school,55.1
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,All state-funded,49.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,Academies and free schools,49.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,Converter academies,49.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,State-funded mainstream,49.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,All state-funded,43.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,Academies and free schools,44.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,Converter academies,51
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,Free schools,46.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,Sponsored academies,40.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,State-funded mainstream,44.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",All state-funded,45.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",Academies and free schools,46.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",Community school,41.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",Converter academies,46.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",LA maintained mainstream,45.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",Sponsored academies,42.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",State-funded mainstream,46
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",Voluntary aided school,49.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,All state-funded,44.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,Academies and free schools,45.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,City technology college,51.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,Converter academies,56.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,LA maintained mainstream,46.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,Sponsored academies,39.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,State-funded mainstream,45.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,Voluntary aided school,46.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,All state-funded,39.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,Academies and free schools,40.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,Converter academies,42.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,Sponsored academies,39.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,State-funded mainstream,40.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,All state-funded,49.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,Academies and free schools,50.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,Converter academies,51.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,LA maintained mainstream,49.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,Sponsored academies,43.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,State-funded mainstream,50.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,Studio schools,29.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,Voluntary aided school,49.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",All state-funded,45.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",Academies and free schools,46.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",Converter academies,49.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",Free schools,55.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",LA maintained mainstream,48.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",Sponsored academies,43.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",State-funded mainstream,46.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",Voluntary aided school,48.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,All state-funded,46.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,Academies and free schools,47.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,Converter academies,48.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,Free schools,40.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,Sponsored academies,44.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,State-funded mainstream,47.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,All state-funded,42.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Academies and free schools,46.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Community school,48.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Converter academies,48.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Further education 14-16 colleges,11.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,LA maintained mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Sponsored academies,45.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,State-funded mainstream,43.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,Studio schools,25.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,All state-funded,46.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Academies and free schools,48.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Converter academies,50.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Foundation school,43.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Free schools,37.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,LA maintained mainstream,43.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Sponsored academies,40.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,State-funded mainstream,47.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,Studio schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,University technical college,31.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,All state-funded,47
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Academies and free schools,52.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Converter academies,53.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Foundation school,45.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Further education 14-16 colleges,28.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,LA maintained mainstream,43.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Sponsored academies,48.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,State-funded mainstream,49
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,Voluntary aided school,42
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,All state-funded,44.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,Academies and free schools,45.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,Converter academies,45.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,Free schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,Sponsored academies,46.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,State-funded mainstream,45.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,University technical college,32.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,All state-funded,43.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,Academies and free schools,44.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,Converter academies,46.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,Free schools,45.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,LA maintained mainstream,40.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,Sponsored academies,42.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,State-funded mainstream,44.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,University technical college,46.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,Voluntary aided school,40.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,All state-funded,45.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,Academies and free schools,47.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,Converter academies,49.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,Foundation school,42.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,Free schools,52.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,LA maintained mainstream,42.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,Sponsored academies,40.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,State-funded mainstream,46.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,All state-funded,51.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,Academies and free schools,53.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,Converter academies,57.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,Sponsored academies,38.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,State-funded mainstream,53.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,All state-funded,45.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,Academies and free schools,46.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,Converter academies,46.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,Free schools,46.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,LA maintained mainstream,51.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,Sponsored academies,45.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,State-funded mainstream,46.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,Voluntary aided school,51.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,All state-funded,45.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,Academies and free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,Converter academies,52.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,Free schools,44.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,LA maintained mainstream,40.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,Sponsored academies,38.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,State-funded mainstream,46.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,University technical college,30.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,Voluntary aided school,40.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,All state-funded,47.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,Academies and free schools,49.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,Community school,42.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,Converter academies,49.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,Free schools,48.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,LA maintained mainstream,42.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,Sponsored academies,47.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,State-funded mainstream,48
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,All state-funded,49.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Academies and free schools,48.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Community school,55.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Converter academies,49.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Foundation school,54.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,LA maintained mainstream,52.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Sponsored academies,42.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,State-funded mainstream,50
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,Voluntary aided school,48.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,All state-funded,51.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,Academies and free schools,52.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,Converter academies,60.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,Free schools,43.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,LA maintained mainstream,46.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,Sponsored academies,46.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,State-funded mainstream,51.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,University technical college,34.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,Voluntary aided school,46.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,All state-funded,53.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Academies and free schools,53.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Community school,42.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Converter academies,57.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Free schools,45.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,LA maintained mainstream,56.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Sponsored academies,53.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,State-funded mainstream,54
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,Voluntary aided school,74.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,All state-funded,47.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,Academies and free schools,49.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,Converter academies,49.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,Free schools,55.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,LA maintained mainstream,42.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,Sponsored academies,44.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,State-funded mainstream,49
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,Voluntary aided school,42.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,All state-funded,54.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,Academies and free schools,55.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,Converter academies,55.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,Free schools,40.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,Sponsored academies,58.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,State-funded mainstream,55.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,All state-funded,44.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Academies and free schools,45.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Converter academies,48.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Foundation school,40.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Free schools,47.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,LA maintained mainstream,42.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Sponsored academies,38.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,State-funded mainstream,45.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,Voluntary aided school,43.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,All state-funded,47.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,Academies and free schools,45.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,Community school,48.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,Free schools,56.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,LA maintained mainstream,48.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,Sponsored academies,38.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,State-funded mainstream,48.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,Voluntary aided school,50.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,All state-funded,39.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,Academies and free schools,39.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,Converter academies,41.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,LA maintained mainstream,56
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,Sponsored academies,37.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,State-funded mainstream,41.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,University technical college,48.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,Voluntary aided school,56
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,All state-funded,40.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,Academies and free schools,42.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,Converter academies,51
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,Foundation school,38.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,LA maintained mainstream,40.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,Sponsored academies,37.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,State-funded mainstream,41.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,Voluntary aided school,57.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,All state-funded,38.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Academies and free schools,41.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Converter academies,37.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Free schools,46.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,LA maintained mainstream,37.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Sponsored academies,43
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,State-funded mainstream,40.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Voluntary aided school,42.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,Voluntary controlled school,32
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,All state-funded,44.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,Academies and free schools,47.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,Community school,53.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,Converter academies,47.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,Further education 14-16 colleges,10.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,LA maintained mainstream,53.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,Sponsored academies,48.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,State-funded mainstream,46.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,University technical college,33.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,All state-funded,46.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Academies and free schools,47.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Community school,49.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Converter academies,49.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Foundation school,45.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Free schools,45.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,LA maintained mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,Sponsored academies,35.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,State-funded mainstream,47.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,University technical college,31.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,All state-funded,45.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Academies and free schools,46
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Community school,46.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Converter academies,51.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Foundation school,46.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,LA maintained mainstream,47.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Sponsored academies,36.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,State-funded mainstream,46.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Studio schools,38.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,Voluntary aided school,49.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,All state-funded,41.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,Academies and free schools,41.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,Converter academies,41.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,Foundation school,45.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,LA maintained mainstream,45.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,Sponsored academies,39.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,State-funded mainstream,41.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,All state-funded,45.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,Academies and free schools,45.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,Community school,53.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,Converter academies,46.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,Foundation school,44.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,LA maintained mainstream,46.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,Sponsored academies,40.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,State-funded mainstream,45.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,All state-funded,53.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,Academies and free schools,53.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,Sponsored academies,53.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,State-funded mainstream,53.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,All state-funded,45.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Academies and free schools,46.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Community school,39.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Converter academies,48.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Foundation school,47.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,LA maintained mainstream,41.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Sponsored academies,37.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,State-funded mainstream,46.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,Voluntary aided school,41
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,All state-funded,44.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,Academies and free schools,45.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,Converter academies,46.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,Foundation school,40.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,Free schools,46.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,LA maintained mainstream,40.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,Sponsored academies,41.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,State-funded mainstream,44.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,All state-funded,43.2
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,Academies and free schools,44.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,Converter academies,45.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,Foundation school,41.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,Free schools,46.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,LA maintained mainstream,41.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,Sponsored academies,39.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,State-funded mainstream,44.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,All state-funded,42.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,Academies and free schools,46.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,Community school,36.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,Converter academies,47.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,Foundation school,40.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,LA maintained mainstream,37.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,Sponsored academies,43.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,State-funded mainstream,45.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",All state-funded,49.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Academies and free schools,51.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Converter academies,54.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Free schools,43.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",LA maintained mainstream,46.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Sponsored academies,47.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",State-funded mainstream,51.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Studio schools,36.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",Voluntary aided school,46.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,All state-funded,43.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Academies and free schools,43.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Community school,45.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Converter academies,45.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Foundation school,48.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Free schools,43.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,LA maintained mainstream,46.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Sponsored academies,39
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,State-funded mainstream,44.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Studio schools,32
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,Voluntary controlled school,45.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,All state-funded,53.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Academies and free schools,57
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Community school,36.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Converter academies,59.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Foundation school,44.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Free schools,48.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,LA maintained mainstream,42.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,Sponsored academies,39.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,State-funded mainstream,55.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,University technical college,25.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,All state-funded,43.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,Academies and free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,Converter academies,46.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,Foundation school,45.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,Free schools,46
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,LA maintained mainstream,45.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,Sponsored academies,43.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,State-funded mainstream,44.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,All state-funded,46
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,Academies and free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,Converter academies,48.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,Free schools,45.1
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,Sponsored academies,45.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,State-funded mainstream,47
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,University technical college,36.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,All state-funded,40.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Academies and free schools,41.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Community school,40.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Converter academies,43.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,LA maintained mainstream,41.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Sponsored academies,41.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,State-funded mainstream,41.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,University technical college,22.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Voluntary aided school,41.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,Voluntary controlled school,43.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,All state-funded,44.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Academies and free schools,46.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Community school,44.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Converter academies,49.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Foundation school,39.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Free schools,37.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,LA maintained mainstream,42.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Sponsored academies,40.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,State-funded mainstream,45.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,Studio schools,40
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,All state-funded,46.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,Academies and free schools,48.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,Community school,44.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,Converter academies,50
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,LA maintained mainstream,46.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,Sponsored academies,43
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,State-funded mainstream,47.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,University technical college,49.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,Voluntary aided school,64.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,All state-funded,43.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,Academies and free schools,44.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,Converter academies,46.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,Foundation school,43.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,LA maintained mainstream,42.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,Sponsored academies,39.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,State-funded mainstream,44.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,Voluntary controlled school,41.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,All state-funded,45.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Academies and free schools,47.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Community school,43
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Converter academies,47.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Free schools,52.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,LA maintained mainstream,42.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Sponsored academies,49.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,State-funded mainstream,46.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,University technical college,41.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,Voluntary aided school,42.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,All state-funded,42.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,Academies and free schools,43.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,Community school,45.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,Converter academies,46.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,LA maintained mainstream,45.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,Sponsored academies,40.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,State-funded mainstream,44
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,Voluntary aided school,41.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,All state-funded,45.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,Academies and free schools,46.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,Converter academies,48.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,Free schools,52.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,LA maintained mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,Sponsored academies,43.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,State-funded mainstream,47
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,Voluntary aided school,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,All state-funded,42.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,Academies and free schools,44.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,Converter academies,46.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,Free schools,40.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,Sponsored academies,43
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,State-funded mainstream,44.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,All state-funded,43.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,Academies and free schools,43.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,Converter academies,43.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,Free schools,41.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,LA maintained mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,Sponsored academies,42.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,State-funded mainstream,43.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,Voluntary aided school,48.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,All state-funded,43.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,Academies and free schools,44.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,Converter academies,46.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,LA maintained mainstream,49.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,Sponsored academies,41.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,State-funded mainstream,45.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,University technical college,39.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,Voluntary aided school,49.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,All state-funded,48.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Academies and free schools,51
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Community school,47.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Converter academies,54
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Free schools,58.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,LA maintained mainstream,47.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Sponsored academies,42.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,State-funded mainstream,50.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,Voluntary aided school,47.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,All state-funded,43.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Academies and free schools,43.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Community school,43.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Converter academies,43.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Free schools,51.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,LA maintained mainstream,48.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Sponsored academies,42.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,State-funded mainstream,44.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,Voluntary aided school,52.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,All state-funded,57.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Academies and free schools,61.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Community school,39.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Converter academies,62.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Foundation school,56.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Free schools,52.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,LA maintained mainstream,51.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Sponsored academies,44.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,State-funded mainstream,58.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,Voluntary aided school,47.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,All state-funded,45.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Academies and free schools,44.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Community school,46.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Converter academies,46.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Foundation school,46.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Free schools,46.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,LA maintained mainstream,47.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Sponsored academies,41.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,State-funded mainstream,46.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,Voluntary aided school,47.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,All state-funded,34.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,Academies and free schools,35.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,Converter academies,37.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,LA maintained mainstream,40.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,Sponsored academies,34.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,State-funded mainstream,36.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,Voluntary aided school,40.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,All state-funded,41.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Academies and free schools,42.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Community school,44.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Converter academies,50.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Free schools,38
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,LA maintained mainstream,44.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Sponsored academies,38.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,State-funded mainstream,43.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Studio schools,46.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,University technical college,43.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,Voluntary aided school,44.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,All state-funded,43.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,Academies and free schools,46.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,Community school,40.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,Converter academies,50.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,LA maintained mainstream,37.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,Sponsored academies,44.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,State-funded mainstream,44.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,Voluntary aided school,33.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,All state-funded,43
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,Academies and free schools,44.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,Converter academies,47.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,Free schools,35.7
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,LA maintained mainstream,44.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,Sponsored academies,39.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,State-funded mainstream,44.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,Voluntary aided school,44.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,All state-funded,45.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,Academies and free schools,48
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,Community school,34.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,Converter academies,50.2
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,Foundation school,42.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,LA maintained mainstream,39.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,Sponsored academies,39
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,State-funded mainstream,46.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,All state-funded,45.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,Academies and free schools,46.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,Converter academies,47.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,Free schools,38.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,Sponsored academies,45.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,State-funded mainstream,46.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,University technical college,49.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,All state-funded,42.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,Academies and free schools,44.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,Converter academies,45.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,Sponsored academies,42.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,State-funded mainstream,44.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,All state-funded,43.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,Academies and free schools,45.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,Converter academies,46.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,Free schools,41.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,Sponsored academies,45.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,State-funded mainstream,45.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,Studio schools,33
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,University technical college,29.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,All state-funded,46.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,Academies and free schools,48.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,Converter academies,46.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,Foundation school,48.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,LA maintained mainstream,48.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,Sponsored academies,51.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,State-funded mainstream,48.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,All state-funded,41.3
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,Academies and free schools,45.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,Community school,40.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,Converter academies,45.9
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,Foundation school,41.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,LA maintained mainstream,40.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,State-funded mainstream,43.5
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,All state-funded,43.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,Academies and free schools,45.2
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,Converter academies,46.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,Free schools,40.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,Sponsored academies,40.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,State-funded mainstream,45.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,All state-funded,46.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Academies and free schools,48.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Community school,47.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Converter academies,51.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Foundation school,42.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Free schools,47.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Further education 14-16 colleges,16.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,LA maintained mainstream,48.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Sponsored academies,42.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,State-funded mainstream,48
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Studio schools,16.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,University technical college,43.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,Voluntary aided school,54.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,All state-funded,43.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,Academies and free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,Converter academies,46
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,Free schools,48.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,Sponsored academies,41.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,State-funded mainstream,44.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,University technical college,43.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,All state-funded,43
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,Academies and free schools,43.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,Community school,47.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,Converter academies,43.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,LA maintained mainstream,50.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,Sponsored academies,41.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,State-funded mainstream,44.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,Voluntary aided school,57.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,All state-funded,42
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Academies and free schools,43.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Converter academies,44
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Foundation school,38.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Free schools,48.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,LA maintained mainstream,41.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Sponsored academies,42.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,State-funded mainstream,42.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,Voluntary aided school,47.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,All state-funded,46.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,Academies and free schools,48
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,Converter academies,52.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,Sponsored academies,42
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,State-funded mainstream,48
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,University technical college,34.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,All state-funded,42.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,Academies and free schools,43.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,Converter academies,48
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,LA maintained mainstream,45.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,Sponsored academies,37.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,State-funded mainstream,43.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,Studio schools,32.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,Voluntary aided school,45.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,All state-funded,45.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,Academies and free schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,Community school,38.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,Converter academies,51
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,Free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,LA maintained mainstream,38.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,Sponsored academies,41.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,State-funded mainstream,46.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,University technical college,53.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,All state-funded,41.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Academies and free schools,42.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Community school,40.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Converter academies,46.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Free schools,50
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,LA maintained mainstream,43.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Sponsored academies,37.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,State-funded mainstream,42.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,Voluntary aided school,45.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,All state-funded,49
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,Academies and free schools,49.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,Converter academies,51.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,Sponsored academies,43.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,State-funded mainstream,49.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,All state-funded,46
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Academies and free schools,47.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Community school,49.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Converter academies,49.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Foundation school,38.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Free schools,43.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,LA maintained mainstream,43.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Sponsored academies,44.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,State-funded mainstream,46.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,Voluntary aided school,47.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,All state-funded,46.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Academies and free schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Community school,52.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Converter academies,51.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Foundation school,48.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Further education 14-16 colleges,18.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,LA maintained mainstream,51.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Sponsored academies,41.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,State-funded mainstream,47.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,University technical college,49.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,Voluntary aided school,55
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,All state-funded,45.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,Academies and free schools,46.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,Community school,48.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,Converter academies,47
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,LA maintained mainstream,48.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,Sponsored academies,44.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,State-funded mainstream,46.7
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,All state-funded,46.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,Academies and free schools,47.6
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,City technology college,59.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,Community school,45.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,Converter academies,48.8
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,Free schools,48.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,LA maintained mainstream,45.1
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,Sponsored academies,44.4
+202526,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,State-funded mainstream,48.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,All state-funded,43.1
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Academies and free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Community school,51.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Converter academies,45.6
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Free schools,53.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Further education 14-16 colleges,6.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,LA maintained mainstream,51.4
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,Sponsored academies,43.5
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000038,Barnsley,State-funded mainstream,44
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,All state-funded,44.7
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,Academies and free schools,46
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,Community school,50.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,Converter academies,49.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,Free schools,57.8
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,LA maintained mainstream,50.9
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,Sponsored academies,41.3
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,State-funded mainstream,46.2
+202526,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000039,Sheffield,University technical college,40.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,All state-funded,48.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Academies and free schools,51.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Community school,48
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Converter academies,50.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Free schools,53.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,LA maintained mainstream,47.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Sponsored academies,46.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,State-funded mainstream,49
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,University technical college,42.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Voluntary aided school,54
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,Voluntary controlled school,40.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,All state-funded,56.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Academies and free schools,57.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Community school,41.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Converter academies,58.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Free schools,53.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,LA maintained mainstream,57.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Sponsored academies,59.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,State-funded mainstream,57.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,Voluntary aided school,60.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,All state-funded,51
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,Academies and free schools,52.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,Converter academies,55
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,Sponsored academies,46
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,State-funded mainstream,52.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,All state-funded,50.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,Academies and free schools,50.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,Converter academies,50.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,Free schools,76.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,LA maintained mainstream,58.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,Sponsored academies,44.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,State-funded mainstream,51.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,Voluntary aided school,58.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,All state-funded,51.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,Academies and free schools,51.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,Converter academies,51.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,Free schools,48.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,LA maintained mainstream,85
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,Sponsored academies,51.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,State-funded mainstream,52.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,Voluntary aided school,85
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,All state-funded,47.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,Academies and free schools,45.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,Community school,47.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,LA maintained mainstream,48.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,Sponsored academies,45.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,State-funded mainstream,48.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,Voluntary aided school,51.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,All state-funded,46
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,Academies and free schools,47.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,City technology college,48.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,Converter academies,49.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,Free schools,48.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,LA maintained mainstream,45.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,Sponsored academies,45.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,State-funded mainstream,47.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,Voluntary aided school,45.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,All state-funded,51.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Academies and free schools,56
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Community school,57.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Converter academies,54.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Foundation school,46
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Free schools,63.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,LA maintained mainstream,49.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Sponsored academies,42.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,State-funded mainstream,53.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,Voluntary aided school,58.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,All state-funded,46.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Academies and free schools,44.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Community school,49.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Converter academies,46
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Foundation school,37.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Free schools,49.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,LA maintained mainstream,53.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Sponsored academies,39.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,State-funded mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,Voluntary aided school,60.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,All state-funded,47.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Academies and free schools,48.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Community school,46.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Converter academies,51.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Free schools,50.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,LA maintained mainstream,46.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Sponsored academies,45.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,State-funded mainstream,48.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,Voluntary aided school,47.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,All state-funded,52
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Academies and free schools,54.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Community school,52.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Converter academies,53.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Free schools,49
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,LA maintained mainstream,49.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Sponsored academies,56.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,State-funded mainstream,53.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,Voluntary aided school,47
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,All state-funded,53.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,Academies and free schools,56.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,Converter academies,57.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,Free schools,63.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,Sponsored academies,52
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,State-funded mainstream,56.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,All state-funded,48.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Academies and free schools,49
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Community school,47.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Converter academies,49.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Foundation school,60.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Free schools,48.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,LA maintained mainstream,50.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,Sponsored academies,44.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,State-funded mainstream,49.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,All state-funded,51.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,Academies and free schools,52.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,Community school,56.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,Converter academies,50.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,Free schools,63.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,LA maintained mainstream,56.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,State-funded mainstream,52.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,All state-funded,47.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,Academies and free schools,48.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,Converter academies,49.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,Sponsored academies,44.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,State-funded mainstream,48.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,All state-funded,49.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,Academies and free schools,51.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,Converter academies,53.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,Foundation school,43.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,LA maintained mainstream,43.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,Sponsored academies,37.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,State-funded mainstream,50.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,Studio schools,44.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,University technical college,28.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,All state-funded,49.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Academies and free schools,50.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Community school,50.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Converter academies,51.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Free schools,53.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Further education 14-16 colleges,0.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,LA maintained mainstream,54.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Sponsored academies,43.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,State-funded mainstream,50.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Studio schools,36.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,Voluntary aided school,59.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,All state-funded,47.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Academies and free schools,49.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Community school,51.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Converter academies,51.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Foundation school,40.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Free schools,45.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,LA maintained mainstream,50.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Sponsored academies,50
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,State-funded mainstream,49.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,Voluntary aided school,55.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,All state-funded,52.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,Academies and free schools,54.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,Converter academies,55.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,LA maintained mainstream,49.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,Sponsored academies,53.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,State-funded mainstream,53.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,Voluntary aided school,49.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,All state-funded,59.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,Academies and free schools,60.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,Converter academies,60.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,Free schools,64.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,State-funded mainstream,60.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,All state-funded,45.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Academies and free schools,45.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Community school,45.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Converter academies,47.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Free schools,46.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,LA maintained mainstream,49.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Sponsored academies,43.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,State-funded mainstream,47.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,Voluntary aided school,53
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,All state-funded,46.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,Academies and free schools,48.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,Community school,49.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,Converter academies,49.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,LA maintained mainstream,48.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,Sponsored academies,47.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,State-funded mainstream,48.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,Voluntary aided school,46.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,All state-funded,52.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Academies and free schools,54.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Community school,51
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Converter academies,63.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Free schools,55.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,LA maintained mainstream,53.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Sponsored academies,50.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,State-funded mainstream,54.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Voluntary aided school,56.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,Voluntary controlled school,56.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,All state-funded,51.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Academies and free schools,51.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Community school,51.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Converter academies,54
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Free schools,47.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,LA maintained mainstream,52.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Sponsored academies,49.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,State-funded mainstream,51.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,University technical college,48.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,Voluntary aided school,54.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,All state-funded,54.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Academies and free schools,53
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Community school,60.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Converter academies,53.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Foundation school,46
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Free schools,52.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,LA maintained mainstream,57.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Sponsored academies,51.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,State-funded mainstream,55.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,Voluntary aided school,51.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,All state-funded,56.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,Academies and free schools,57.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,Converter academies,62.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,Free schools,55.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,LA maintained mainstream,56.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,Sponsored academies,48.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,State-funded mainstream,57.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,Voluntary aided school,56.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,All state-funded,51.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,Academies and free schools,52.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,Converter academies,57.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,Free schools,50.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,LA maintained mainstream,56.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,Sponsored academies,48.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,State-funded mainstream,52.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,Voluntary aided school,56.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,All state-funded,59.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,Academies and free schools,61.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,Converter academies,61.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,Free schools,58.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,LA maintained mainstream,52.8
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,State-funded mainstream,60.5
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,Voluntary aided school,52.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,All state-funded,46.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Academies and free schools,49.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Community school,49
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Converter academies,50.5
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Free schools,49
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Further education 14-16 colleges,10
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,LA maintained mainstream,50
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,State-funded mainstream,48
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,University technical college,28.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Voluntary aided school,53.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,Voluntary controlled school,47.7
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,All state-funded,46.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Academies and free schools,50
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Community school,46.9
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Converter academies,48.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Foundation school,48.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Free schools,64.2
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Further education 14-16 colleges,11.4
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,LA maintained mainstream,47.3
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Sponsored academies,49.6
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,State-funded mainstream,48.1
+202526,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,Voluntary aided school,48.3
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,All state-funded,51.9
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,Academies and free schools,54.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,Converter academies,53.8
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,Free schools,56.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,LA maintained mainstream,44.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,Sponsored academies,58
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,State-funded mainstream,54.1
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,Voluntary aided school,44.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,All state-funded,52.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,Academies and free schools,54.6
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,Converter academies,58.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,Free schools,45
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,LA maintained mainstream,42.7
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,Sponsored academies,53.2
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,State-funded mainstream,53.4
+202526,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,Voluntary aided school,42.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,All state-funded,48.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,Academies and free schools,50.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,Converter academies,51.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,Free schools,53.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,Sponsored academies,41.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,State-funded mainstream,50.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,University technical college,62.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,All state-funded,45.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Academies and free schools,45.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Community school,45.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Converter academies,45.7
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Foundation school,48.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,LA maintained mainstream,47.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Sponsored academies,45.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,State-funded mainstream,45.8
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,Voluntary controlled school,49.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,All state-funded,45.6
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Academies and free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Converter academies,47.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Foundation school,41.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Free schools,41.9
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,LA maintained mainstream,45.1
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Sponsored academies,45.3
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,State-funded mainstream,46.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,University technical college,24.5
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,Voluntary aided school,50.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,All state-funded,43.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Academies and free schools,43.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Community school,48.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Converter academies,44.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Foundation school,48.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Free schools,48.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,LA maintained mainstream,49.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Sponsored academies,39.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,State-funded mainstream,45
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,Voluntary aided school,55.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,All state-funded,45.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Academies and free schools,46.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Converter academies,47.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Foundation school,45.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Free schools,49.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,LA maintained mainstream,49.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Sponsored academies,39.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,State-funded mainstream,46.3
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,University technical college,29.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,Voluntary aided school,51.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,All state-funded,50.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Academies and free schools,52
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Community school,41.4
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Converter academies,53.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Foundation school,44.8
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Free schools,59.7
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,LA maintained mainstream,44
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,Sponsored academies,43
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,State-funded mainstream,51.2
+202526,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,University technical college,41
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,All state-funded,45.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Academies and free schools,46.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Community school,47.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Converter academies,48.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Foundation school,42.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Free schools,50.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,LA maintained mainstream,47.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Sponsored academies,37.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,State-funded mainstream,46.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,Voluntary aided school,58.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,All state-funded,50.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Academies and free schools,52.2
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Community school,38.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Converter academies,53.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Foundation school,48
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Free schools,49.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,LA maintained mainstream,45.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Sponsored academies,44.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,State-funded mainstream,51.4
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,University technical college,33.2
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,Voluntary aided school,43.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,All state-funded,47
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Academies and free schools,47.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Community school,62.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Converter academies,51.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Foundation school,50.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Free schools,44.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Further education 14-16 colleges,6.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,LA maintained mainstream,54.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Sponsored academies,38.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,State-funded mainstream,48.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,University technical college,41.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Voluntary aided school,61.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,Voluntary controlled school,66.1
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,All state-funded,45.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Academies and free schools,46.6
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Community school,46.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Converter academies,49.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Foundation school,38.9
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Free schools,46.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,LA maintained mainstream,46.3
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Sponsored academies,39.4
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,State-funded mainstream,46.5
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Voluntary aided school,48.8
+202526,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,Voluntary controlled school,53
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,All state-funded,45.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,Academies and free schools,47
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,Converter academies,46.9
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,Sponsored academies,48.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,State-funded mainstream,47
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,All state-funded,45.1
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,Academies and free schools,45.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,Community school,62.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,Converter academies,48.8
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,LA maintained mainstream,62.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,Sponsored academies,39.5
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,State-funded mainstream,46.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,University technical college,46.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,All state-funded,44.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,Academies and free schools,45.5
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,Converter academies,46.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,Foundation school,48.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,Free schools,47.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,LA maintained mainstream,48.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,Sponsored academies,43.2
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,State-funded mainstream,45.6
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,University technical college,50.4
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,All state-funded,46.7
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,Academies and free schools,47.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,Converter academies,49.3
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,Foundation school,50.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,Free schools,43.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,LA maintained mainstream,50.6
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,Sponsored academies,43.2
+202526,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,State-funded mainstream,47.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,All state-funded,46.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Academies and free schools,47.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Community school,34.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Converter academies,48.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Free schools,44.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,LA maintained mainstream,34.6
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Sponsored academies,42
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,State-funded mainstream,47
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,Studio schools,44.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,University technical college,33.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,All state-funded,43.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Academies and free schools,44.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Community school,47.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Converter academies,45.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Foundation school,35.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Free schools,42.6
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,LA maintained mainstream,46
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Sponsored academies,42
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,State-funded mainstream,44.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,University technical college,43.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,Voluntary controlled school,47.2
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,All state-funded,42.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Academies and free schools,43.8
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Community school,47.7
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Converter academies,45.1
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Free schools,39
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,LA maintained mainstream,46
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Sponsored academies,41.9
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,State-funded mainstream,44
+202526,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,Voluntary controlled school,42.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,All state-funded,50.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Academies and free schools,52.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Community school,46
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Converter academies,52.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Foundation school,51.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Free schools,48.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Further education 14-16 colleges,5.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,LA maintained mainstream,51.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Sponsored academies,45.3
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,State-funded mainstream,52.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,Voluntary aided school,57.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,All state-funded,48
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,Academies and free schools,49.3
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,Converter academies,51.4
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,Foundation school,42.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,Free schools,44.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,LA maintained mainstream,42.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,Sponsored academies,42
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,State-funded mainstream,49.1
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,All state-funded,46.7
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Academies and free schools,46.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Community school,50
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Converter academies,48
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Foundation school,40.5
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Free schools,45.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,LA maintained mainstream,49.2
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Sponsored academies,45.4
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,State-funded mainstream,47.8
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Voluntary aided school,46.9
+202526,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,Voluntary controlled school,50.8
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,All state-funded,43.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Academies and free schools,44.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Converter academies,45.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Foundation school,43.7
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Free schools,47.2
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,LA maintained mainstream,45.5
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Sponsored academies,43.9
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,State-funded mainstream,45
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Voluntary aided school,51.1
+202526,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,Voluntary controlled school,40.8
